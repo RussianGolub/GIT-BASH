@@ -1,1 +1,2 @@
-this is l2t1 branch text /n and this is too
+this is l2t1 branch text 
+this is conflict branch text
